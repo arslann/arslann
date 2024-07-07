@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslann&label=Profile%20views&color=0e75b6&style=flat" alt="arslann" /> </p>
 
-- 🌱I’m currently enrolled in a foundational cybersecurity course on tryhackme.com
--  Apart from my daily job, I'm interested in building mobile apps with React Native in my free time
+- 🌱I’m currently enrolled in a foundational cybersecurity course on **tryhackme.com**
+-  Apart from my daily job, I'm interested in building mobile apps with **React Native** in my free time
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
